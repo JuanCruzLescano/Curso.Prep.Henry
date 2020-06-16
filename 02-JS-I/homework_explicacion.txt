@@ -1,0 +1,25 @@
+Variables: Son espacios de memoria que la computadora reserva
+            para ciertos datos. Estos datos son los que nosotros
+            queremos que sean almacenados.
+
+Strings: Una string es un bloque de texto. Es decir, un conjunto
+        carácteres alfanuméricos. Estos carácteres pueden ser
+        números, símbolos y letras.
+
+Funciones: Una función es un conjunto de código que se utiliza
+            para no volver a escribir el mismo código más veces.
+            Es decir, si necesitamos repetir una acción varias veces
+            y necesitamos mucho código para una sola acción.
+            Entonces, escribimos una función para que cada vez que
+            llamemos a la función, haga todo el código por nosotros.
+
+Declaraciones: Las declaraciones son condiciones, las cuales
+                una computadora va a evaluar si son ciertas o no.
+                Esto se utiliza de la siguiente forma:
+                Si la condición es verdadera, la computadora hará tal cosa.
+                En cambio, si no es cierto, la computadora hará otra cosa diferente.
+
+Valores booleanos: Los valores booleanos solo son dos, true y false.
+                    Estos actuan tal cual su palabra lo indica.
+                    True significa "verdadero"
+                    False significa "falso"
