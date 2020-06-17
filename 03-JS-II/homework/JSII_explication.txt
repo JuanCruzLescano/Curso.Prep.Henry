@@ -1,0 +1,17 @@
+"FOR" : Los bucles for se utilizan para recorrer una "x" cantidad
+de numeros y realizar diferentes acciones por si solo. Es decir,
+si quisieramos imprimir 100 numeros, del 1 al 100, tendríamos que escribir uno por uno.
+En cambio, con un bucle for, podríamos imprimir los 100 números con una simple linea
+de código.
+
+Operadores Lógicos: Los Operadores Lógicos son el && (AND),
+el || (OR) y el ! (NOT). Se utilizan para verificar si se cumplen
+diferentes condiciones. Es decir, el && va a ser true cuando DOS de los dos
+parametros comparables sea true, por ende, todos los parametros
+tienen que ser verdaderos para que se cumpla la condicion.
+El || va a ser true cuando UNO de los dos parámetros de la condición
+sea verdadero, es decir, si uno es true y el otro es false, entonces,
+la condicion será true.
+Y por último, el ! va a negar una condición, es decir, la va a revertir.
+Por ende, si tengo una condición que sea true, pero por delante tiene
+un !, entonces la condicion será false.
