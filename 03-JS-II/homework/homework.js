@@ -94,7 +94,7 @@ function esPrimo(numero) {
   if (numero < 2) {
     return false
   } for (var i = 2; i < numero; i++) {
-      if (numero % 1 === 0 && numero % i === 0) {
+      if (numero % i === 0) {
         return false
       } else {
         return true
