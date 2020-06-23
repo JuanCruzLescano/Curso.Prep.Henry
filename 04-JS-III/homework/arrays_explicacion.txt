@@ -1,0 +1,4 @@
+Arrays: Los Arrays son un arreglo de datos, es decir, una lista
+con diferentes tipos de datos. Estos pueden ser, numeros, palabras,
+booleanos, funciones y otras listas. Gracias a los Arrays, podemos 
+manipular grandes cantidades de datos.
