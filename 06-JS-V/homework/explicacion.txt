@@ -1,0 +1,6 @@
+Prototype: Es el prototipo, valga la redundancia, donde un desarrollador
+puede utilizarlo para agregar o utilizar metodos de un objeto.
+
+Constructors (de clase): Es una función que se utiliza para crear objetos
+con las mismas propiedades. Es decir, es como crear un molde, para luego
+crear más objetos con ese molde ya hecho.
