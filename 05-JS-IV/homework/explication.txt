@@ -1,0 +1,30 @@
+#Objetos: Son estructuras de datos que se utiliza, mayormente,
+para guardar información sobre algo en específico. Si bien, hay
+muchas similitudes con los array, pero acá se diferencia en la forma
+que existe para agregar, buscar, manipular elementos. Esto se hace
+a través de un sistema de KEY:VALUE, es decir, los objetos tienen una
+clave única, la cual tiene un valor adentro. Estas keys pueden ser
+propiedades o métodos.
+
+#Propiedades: Es un tipo de clave que puede almacenar todo tipo de 
+datos en JavaScript. Pueden ser numbers, strings, booleans, etc.
+
+#Métodos: Es otro tipo de clave en los objetos que se llama cuando
+guardamos una función en un objeto. Es decir, que cuando uno de nuestros
+values es una función, a esa KEY la llamamos METODO.
+
+#Bucle for...in: El bucle for...in se utiliza en los objetos, por el
+simple hecho de que, a diferencia de los array, estos no tienen un índice
+ordenado de mayor a menor, sino que ahora se manejan por strins. Por ende,
+el bucle for...in declara una variable y la utiliza para recorrer todas las
+keys de nuestro objeto.
+
+Dot Notation // Bracket Notation: Estos conceptos se utilizan para
+acceder a una key de un objeto. La Dot Notation se utiliza cuando nosotros
+ya sabemos exactamente como se llama la propiedad, es decir, es literal. Y para
+acceder con dot notation, tan solo tenemos que poner el nombre del objeto seguido
+de un punto y la key a la que queremos acceder. En cambio, el Bracket Notation
+se utiliza envolviendo a la key que queremos acceder en ['']. Esta forma
+contempla usar strings, numbers, o variables que refieran a strings o numbers.
+Las dos formas son válidas de uso, pero se decidirá usar una u otra dependiendo
+de la situación o problema a resolver.
