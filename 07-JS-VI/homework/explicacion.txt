@@ -1,0 +1,2 @@
+Funciones Callback: Las funciones callback permiten llamar otras 
+funciones como argumentos.
